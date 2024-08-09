@@ -27,10 +27,6 @@ Each system in this project demonstrates key OOP principles, including:
 
 To start working with this project:
 
-## Getting Started
-
-To start working with this project:
-
 1. **Clone the repository**: 
    ```bash
    git clone https://github.com/your-repository.git
