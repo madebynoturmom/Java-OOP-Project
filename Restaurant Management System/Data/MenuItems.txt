@@ -1,0 +1,5 @@
+1|Burger|A juicy grilled beef burger with lettuce, tomato, and cheese.|8.99|true
+2|Pasta|Creamy Alfredo pasta with chicken and broccoli.|12.99|true
+3|Salad|Fresh garden salad with a variety of vegetables.|6.99|true
+4|Pizza|Wood-fired pizza with mozzarella, basil, and tomato sauce.|10.99|true
+5|Steak|Grilled ribeye steak with garlic butter and mashed potatoes.|18.99|true
