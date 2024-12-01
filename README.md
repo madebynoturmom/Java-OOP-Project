@@ -12,8 +12,6 @@ The project is organized into several folders, each representing a different sys
 - **Library Management System**
 - **Restaurant Management System**
 
-(Replace the placeholder text with the actual descriptions of each system.)
-
 ## OOP Principles Demonstrated
 
 Each system in this project demonstrates key OOP principles, including:
